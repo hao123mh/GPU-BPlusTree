@@ -1,4 +1,4 @@
 git add .
-git commit -m "è¿™å°±æ˜¯ä¸€ä¸ªæµ‹è¯•"
+git commit -m "Õâ¾ÍÊÇÒ»¸ö²âÊÔ"
 git push origin master
 git push
